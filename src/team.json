@@ -2,10 +2,55 @@
     {
 "id": 1,
 "name": "Anh Nguyen",
-"title": "Intern",
+"title": "Senior Developer",
 "location": "Seattle",
 "phone": "(253)-555-5555",
 "email": "anhnguyen@gmail.com",
-"img": "https://github.com/anhnguyendon92/UserDirectory/blob/main/src/img/anh.jpg?raw=true",
+"img": "https://github.com/anhnguyendon92/UserDirectory/blob/main/src/img/Anh.jpg?raw=true"
+},
+{
+    "id": 2,
+"name": "Dan S.",
+"title": "Jr Developer",
+"location": "Seattle",
+"phone": "(253)-811-9090",
+"email": "anhnguyen@gmail.com",
+"img": "https://github.com/anhnguyendon92/UserDirectory/blob/main/src/img/Dan.jpg?raw=true"
+},
+{
+    "id": 3,
+"name": "Donny",
+"title": "Lead Developer",
+"location": "Seattle",
+"phone": "(206)-345-6789",
+"email": "anhnguyen@gmail.com",
+"img": "https://github.com/anhnguyendon92/UserDirectory/blob/main/src/img/Donny.jpg?raw=true"
+},
+{
+    "id": 4,
+"name": "Douglas M",
+"title": "Security",
+"location": "Seattle",
+"phone": "(425)-432-9457",
+"email": "anhnguyen@gmail.com",
+"img": "https://github.com/anhnguyendon92/UserDirectory/blob/main/src/img/Douglasjpg?raw=true"
+},
+{
+    "id": 5,
+"name": "Johnathan",
+"title": "Sr Senior Developer",
+"location": "Seattle",
+"phone": "(253)-857-9374",
+"email": "anhnguyen@gmail.com",
+"img": "https://github.com/anhnguyendon92/UserDirectory/blob/main/src/img/Johnathan.jpg?raw=true"
+},
+{
+    "id": 6,
+"name": "Moses K.",
+"title": "CEO",
+"location": "Seattle",
+"phone": "(253)-545-7464",
+"email": "anhnguyen@gmail.com",
+"img": "https://github.com/anhnguyendon92/UserDirectory/blob/main/src/img/mosesjpg?raw=true"
 }
 ]
