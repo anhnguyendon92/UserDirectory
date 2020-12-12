@@ -52,7 +52,7 @@ function App() {
     setWarning(false);
 
 
-  }, [search])
+  }, [search, team])
 
 
 

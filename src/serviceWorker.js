@@ -1,3 +1,5 @@
+/* eslint-disable no-undef */
+/* eslint-disable no-restricted-globals */
 /**
  * Welcome to your Workbox-powered service worker!
  *
@@ -11,6 +13,7 @@
  * See https://goo.gl/2aRDsh
  */
 
+// eslint-disable-next-line no-undef
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
